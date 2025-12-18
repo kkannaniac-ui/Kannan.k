@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GuardiaNIDS - Network Intrusion Detection System",
+  "description": "A comprehensive React-based NIDS dashboard and simulator. This application provides a real-time visualization of network traffic, threat detection logic (port scanning, failed logins, blacklists), and the complete Python source code for a production-ready command-line NIDS.",
+  "requestFramePermissions": []
+}
